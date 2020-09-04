@@ -1,2 +1,1 @@
-# webpack-sample
-Webpack assessment
+# webpack-assessment
